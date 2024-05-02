@@ -49,12 +49,3 @@ While drawing inspiration from pioneering technologies like Neuralink, our proje
 2. **Install Dependencies**: Run `pip install -r requirements.txt` to install the required Python packages.
 3. **Explore Notebooks**: Navigate through the notebooks in numerical order to understand our step-by-step process.
 
-## Contributions
-We welcome contributions to this project. Please refer to `CONTRIBUTING.md` for our code of conduct and the process for submitting pull requests.
-
-## License
-This project is licensed under the MIT License - see the `LICENSE.md` file for details.
-
-## Acknowledgments
-- A special thanks to all team members and contributors.
-- Gratitude to organizations and individuals who support our research.
